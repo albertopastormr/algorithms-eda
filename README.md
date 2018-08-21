@@ -1,4 +1,4 @@
-# algorithms_eda
+# C++ Algorithms (EDA)
 
 ## About
 
